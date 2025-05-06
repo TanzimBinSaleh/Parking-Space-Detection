@@ -1,5 +1,6 @@
 ACPDS/
 PKLOT/
 weights/
+test/
 *.pt
 *.pth
